@@ -72,7 +72,7 @@ col1, col2 = st.columns(2)
 image = Image.open('images/teonett.jpg')
 col1.image(
     image,
-    caption='Designed by slidesgo / Freepik',
+    caption='Designed by Teonett',
     use_column_width=True
 )
 
