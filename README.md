@@ -64,7 +64,7 @@ See the `template-reactless` directory for a template that does not use [React](
 
 See the `examples` directory for examples on working with pandas DataFrames, integrating with third-party libraries, and more.
 
-<img src="https://github.com/teonett/Streamlit-Langchain-Guia-Viagem/blob/main/PlanejandoViagem.png">
+<img src="https://github.com/teonett/Streamlit-Excel-Database/blob/main/images/Excel_As_DB.png">
 
 <h4>Copyright (C) 2023 Jose Teotonio (teonett@gmail.com)</h4>
 <p>
